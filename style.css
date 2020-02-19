@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+body{
+    font-family: 'Righteous', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
